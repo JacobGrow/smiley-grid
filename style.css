@@ -1,0 +1,11 @@
+body{
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+img{
+  display: flex;
+  max-width: 50px;
+  margin: auto;
+}
